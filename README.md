@@ -15,7 +15,7 @@
 
 ### 1. Abstract <a name="Abstract"/>
 
-That repository aims: (I) Exemplify technics about how to use Structured Query Language (SQL). (II) Use native functions utils to: concatenate, count, calculate, get current time and others. (III) Introduce joins using two or three tables.
+Sakila is a sample database available in the official mysql documentation (Download link below). That repository aims: (I) Exemplify technics about how to use Structured Query Language (SQL). (II) Use native functions utils to: concatenate, count, calculate, get current time and others. (III) Introduce joins using two or three tables.
 
 [Download Sakila Database](https://dev.mysql.com/doc/index-other.html)
 
